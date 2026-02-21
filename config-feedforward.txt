@@ -35,8 +35,10 @@ conn_add_prob           = 0.5
 conn_delete_prob        = 0.5
 
 # connection enable options
-enabled_default         = True
-enabled_mutate_rate     = 0.01
+enabled_default             = True
+enabled_mutate_rate         = 0.01
+enabled_rate_to_true_add    = 0.0
+enabled_rate_to_false_add   = 0.0
 
 feed_forward                    = True
 initial_connection              = full
