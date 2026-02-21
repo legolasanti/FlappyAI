@@ -2,7 +2,7 @@
 
 A Flappy Bird clone powered by a self-learning AI. The birds are controlled by neural networks trained using the **NEAT** (NeuroEvolution of Augmenting Topologies) algorithm — no human plays the game, the AI figures out how to survive on its own through evolution.
 
-Built with Python, Pygame, and neat-python. Original game code by [Tech With Tim](https://github.com/techwithtim).
+Built with Python, Pygame, and neat-python. Created by **Abraham Noah Ceviz**.
 
 ---
 
@@ -132,4 +132,4 @@ If the window appears but is unresponsive, click on it once to bring it into foc
 
 ## License
 
-This project is for educational purposes. Game assets and original structure by [Tech With Tim](https://github.com/techwithtim/NEAT-Flappy-Bird).
+This project is for educational purposes. Created by **Abraham Noah Ceviz**.
